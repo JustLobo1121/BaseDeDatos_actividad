@@ -148,6 +148,7 @@ create or replace function verificar_horario()
         ) then
             raise exception 'choque de horario: la sala ya esta con una funcion activa en el bloque de hora';
         end if;
+        return new;
     end;
 $$ language plpgsql;
 -- trigger
