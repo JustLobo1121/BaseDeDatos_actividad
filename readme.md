@@ -10,5 +10,5 @@
 - [X] modelo
 - [X] verificacion de correo, rut y reglas de negocio tal que limitador de asientos por sala, prevencion de solapamiento de funciones y limitador de ventas por funcion/sala
 - [X] vistas para uso de aplicacion
-- [ ] generacion de pruebas
+- [X] generacion de pruebas
 - [ ] consultas (parte-consultas.md y consultas.sql)
