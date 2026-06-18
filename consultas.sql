@@ -1,5 +1,5 @@
 -- consultas
-
+set search_path to cine;
 -- top 3 mas vendidas
 select 
 	f.id_funcion,
